@@ -5,10 +5,10 @@ https://visitesaopaulo.com/hackathon24/
 
 
 ## Equipe ACB²:
-- André Gomes
-- Bárbara Drummond
-- Bruno Fialho
-- Carol Moraes
+- André Gomes - Negócios
+- Bárbara Drummond - UX/UI e Dev
+- Bruno Fialho - Dev
+- Carol Moraes - Marketing
 
 ## Projeto: PASSAPORTE VISITE SÃO PAULO
 
