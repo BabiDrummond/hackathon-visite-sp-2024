@@ -12,11 +12,11 @@ https://visitesaopaulo.com/hackathon24/
 
 ## Projeto: PASSAPORTE VISITE SÃO PAULO
 
-### Apresentação do pitch: https://drive.google.com/file/d/1P8ciWaXk9zQSa0YWPK5_e9_DmOhHp_uC/view?usp=drive_link
+### Apresentação do pitch: https://drive.google.com/file/d/1P8ciWaXk9zQSa0YWPK5_e9_DmOhHp_uC/
 
 ###  Vídeo da Demo: https://www.youtube.com/watch?v=y7C6ycC-zrc
 
-### Protótipo do Figma: https://www.figma.com/proto/f6QqEOHUwbsWQvT8VssFq5/WebPages?node-id=1-3&node-type=canvas&t=Vg4otTU9sujJO425-1&scaling=contain&content-scaling=fixed&page-id=0%3A1
+### Protótipo no Figma: https://www.figma.com/proto/f6QqEOHUwbsWQvT8VssFq5/
 
 ### Link da Pesquisa realizada: " Ajude nosso grupo do Hackathon Visite São Paulo respondendo 6 perguntas nesse formulário!
 Queremos sua opinião pessoal sobre Turismo e Tecnologia! Aviso: Sem nenhuma pergunta pessoal sobre e-mail, nome ou telefone
